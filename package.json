@@ -1,5 +1,5 @@
 {
-  "name": "huncho-2.0",
+  "name": "simba-2.0",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -17,10 +17,10 @@
     "Huncho",
     "whatsapp",
     "whatsapp-bot",
-    "keithkeizzah",
-    "keith"
+    "frdiezra",
+    "fredi"
   ],
-  "author": "keithkeizzah",
+  "author": "frediezra",
   "license": "ISC",
   "dependencies": {
     "@hapi/boom": "^10.0.1",
