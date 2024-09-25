@@ -1,20 +1,20 @@
 {
-  "name": "Huncho-md",
-  "description": "bot whatsapp developed by keithkeizzah",
+  "name": "Simba-Sc-md",
+  "description": "bot whatsapp developed by FredieEzra",
   "keywords": [
     "bot",
     "node",
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://telegra.ph/file/19c44bb193bbd2be1abae.jpg",
-  "repository": "https://github.com/Keithkeizzah/HUNCHO-MD",
+  "logo": "https://files.catbox.moe/m32rj6.jpg",
+  "repository": "https://github.com/Fred1e/Simba-Sc",
   "succes_url": "/",
   "stack": "container",
   "env": {
     "PREFIX": {
       "description": "choose your prefix of bot",
-      "value": "#",
+      "value": "+",
       "required": true
     },
     "AUTO_READ_STATUS": {
@@ -34,12 +34,12 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "𝐇𝐔𝐍𝐂𝐇𝐎-𝐌𝐃",
+      "value": "𝐒𝐈𝐌𝐁𝐀-𝐒𝐂",
       "required": false
     },
     "BOT_MENU_LINKS": {
       "description": "add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value": "https://telegra.ph/file/19c44bb193bbd2be1abae.jpg",
+      "value": "https://files.catbox.moe/2s7za0.jpg",
       "required": false
     },
     "PUBLIC_MODE": {
@@ -63,12 +63,12 @@
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "keithkeizzah"
+      "value": "FrediEzra"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of kenya '254')",
       "required": false,
-      "value": "254748387615"
+      "value": "255620814108,255764182801,255752593977"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
